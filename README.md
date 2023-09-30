@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I'm Skye and I code stuff ummm yeah thats it really
+-I'm into game dev but I can't do it yet
+-I know basic (and like really basic) HTML and CSS
+-Trying to start my development journey
 
 <!--
 **SkyeDoesThings/SkyeDoesThings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
